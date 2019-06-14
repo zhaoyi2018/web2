@@ -2,7 +2,7 @@
 * @Author: 赵倚
 * @Date:   2019-06-12 16:37:09
 * @Last Modified by:   赵倚
-* @Last Modified time: 2019-06-13 17:46:53
+* @Last Modified time: 2019-06-14 10:45:42
 */
 *{
 	padding: 0;
@@ -129,6 +129,8 @@ li{
 }
 .ims1{
 	border-top: 4px solid #3aa747;
+	height:674px ;
+	background:#000 url('imgs/banner.png') center;
 }
 .mul1{
 	height: 60px;

@@ -2,7 +2,7 @@
 * @Author: 赵倚
 * @Date:   2019-06-12 16:37:09
 * @Last Modified by:   赵倚
-* @Last Modified time: 2019-06-14 10:45:42
+* @Last Modified time: 2019-06-14 12:00:08
 */
 *{
 	padding: 0;
@@ -34,14 +34,14 @@ li{
 	float: left;
 	margin:0 10px 0 10px ;
 }
-.sh11 select{
+/* .sh11 select{
 	font-size: 12.93px;
 	color: #6c6a6b;
 	float: left;
 	margin:0 10px 0 10px ;
 	border: 0;
 	height: 40px;
-}
+} */
 .sh11 a{
 	font-size: 14.78px;
 	color: #5d5a5c;
@@ -101,13 +101,12 @@ li{
 	line-height: 38px;
 	margin-top: 20px;
 }
-.sh3 select{
+.sh3 .sh31{
 	border: 0px;
 	font-size: 15px;
 	height: 38px;
-}
-.sh3 .sh31{
 	float: left;
+	font-weight: 600;
 }
 .sh3 .sh32{
 	float: left;
